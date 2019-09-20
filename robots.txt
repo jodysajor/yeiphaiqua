@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kahxozich.avijeets.com/sitemap.xml
